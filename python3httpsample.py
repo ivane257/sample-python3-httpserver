@@ -1,5 +1,5 @@
 # TITLE: Sample: Simple HTTP server implementation in Python3
-# ORIGIN: Ivane Gegia, ivane347.com
+# ORIGIN: Ivane Gegia, ivane5.com
 #
 # DESCRIPTION: Sample shows basic HTTP request/response handling 
 # and accessing things like: (HTTP headers, query string, post body), 
